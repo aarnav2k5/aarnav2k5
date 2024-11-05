@@ -4,7 +4,7 @@
 
 👩‍💻 I'm currently pursuing B.Tech in Computer Science from KIET, Ghaziabad
 
-🧠 I'm currently learning **DSA** *&&* **Web Development**
+🧠 I'm currently exploring the world of **Web Development**
 
 💬 Ask me about **Frontend Technologies**, **GNU/Linux**
 
