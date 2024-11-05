@@ -4,11 +4,9 @@
 
 👩‍💻 I'm currently pursuing B.Tech in Computer Science from KIET, Ghaziabad
 
-🧠 I'm currently learning **DSA** *&&* **React**
+🧠 I'm currently learning **DSA** *&&* **Web Development**
 
-💬 Ask me about **C++**, **Frontend**
-
-⚡️ Fun fact...
+💬 Ask me about **Frontend Technologies**, **GNU/Linux**
 
 
 ## 📫 Connect With Me On: 
@@ -17,4 +15,4 @@
 
 
 ## 🛠 Skills
-*C, C++, HTML, CSS, Bootstrap, Javascript*.
+*C, C++, HTML, CSS, Bootstrap, Tailwind CSS, Vim/Neovim, Javascript*.
