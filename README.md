@@ -1,3 +1,4 @@
+![gitartwork](gitartwork.svg)
 
 # Hi, I'm Aarnav! 👋
 
